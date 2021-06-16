@@ -18,7 +18,7 @@
 
 
 
-## Day 3 (June 15)
+## Day 3 (June 16)
 * [Slides](https://github.com/PGM-Lab/probai-2021-TAs/raw/main/Day3/slides-Day3.pdf)
 * Notebook: [student_BBVI](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/student_BBVI.ipynb)
 * Notebook: [bayesian_linear_regression](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/bayesian_linear_regression.ipynb)

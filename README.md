@@ -11,7 +11,9 @@
 ## Day 2 (June 15)
 * [Slides](https://github.com/PGM-Lab/probai-2021-pyro/raw/main/Day2/slides-Day2.pdf)
 * Notebook: [students_simple_model](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day2/notebooks/students_simple_model.ipynb)
+* Notebook: [solutions_simple_model](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day2/notebooks/solution_simple_model.ipynb)
 * Notebook: [students_bayesian_regression_VI](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day2/notebooks/students_bayesian_regression_VI.ipynb)
+* Notebook: [solutions_bayesian_regression_VI](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day2/notebooks/solutions_bayesian_regression_VI.ipynb)
 * Notebook: [FA](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day2/notebooks/FA.ipynb)
 
 

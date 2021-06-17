@@ -10,6 +10,7 @@
 
 ## Day 2 (June 15)
 * [Slides](https://github.com/PGM-Lab/probai-2021-pyro/raw/main/Day2/slides-Day2.pdf)
+* [Unabridged Slides](https://github.com/PGM-Lab/probai-2021-pyro/raw/main/Day2/slides-Day2-unabridged.pdf)
 * Notebook: [students_simple_model](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day2/notebooks/students_simple_model.ipynb)
 * Notebook: [solutions_simple_model](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day2/notebooks/solution_simple_model.ipynb)
 * Notebook: [students_bayesian_regression_VI](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day2/notebooks/students_bayesian_regression_VI.ipynb)
@@ -21,9 +22,12 @@
 ## Day 3 (June 16)
 * [Slides](https://github.com/PGM-Lab/probai-2021-pyro/raw/main/Day3/slides-Day3.pdf)
 * Notebook: [student_BBVI](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/student_BBVI.ipynb)
+* Notebook: [solution_BBVI](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/solution_BBVI.ipynb)
 * Notebook: [bayesian_linear_regression](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/bayesian_linear_regression.ipynb)
 * Notebook: [students_bayesian_logistic_regression](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/students_bayesian_logistic_regression.ipynb)
+* Notebook: [solutions_bayesian_logistic_regression](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/solutions_bayesian_logistic_regression.ipynb)
 * Notebook: [student_simple_gaussian_model_pyro](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/student_simple_gaussian_model_pyro.ipynb)
+* Notebook: [solution_simple_gaussian_model_pyro](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/solution_simple_gaussian_model_pyro.ipynb)
 * Notebook: [FA_binomial](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/FA_binomial.ipynb)
 * Notebook: [VAE](https://colab.research.google.com/github/PGM-Lab/probai-2021-pyro/blob/main/Day3/notebooks/VAE.ipynb)
 
